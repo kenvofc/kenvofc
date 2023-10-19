@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maher-zubair" alt="maher-zubair" /></a> </p>
 
-- *I’m Currently Working On [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD)*
+- *I’m Currently Working On [𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨 𝑴𝑫](https://github.com/Maher-Zubair/SIGMA-MD)*
 
 
 ## ***How to Reach Me***
-- **HELP_SIGMA-MD@outlook.com**
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923466319114)
+- **𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨-𝑴𝑫@outlook.com**
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237656774511)
 
 - <a href="https://www.youtube.com/c/innoxent tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="innoxent tech" height="30" width="40" /></a>
 </p>
